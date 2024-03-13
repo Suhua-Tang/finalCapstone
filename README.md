@@ -5,7 +5,7 @@
 _In this project, I have comfiled functions to preprocess the text, to analyze the sentiments based on polarity scores._
 
 <details>
-<summary>!Usage section</summary>
+<summary>User guidance</summary>
 1 Open Terminal or Command Prompt: Open your terminal or command prompt where you want to create the virtual environment.
 2 Navigate to Your Project Directory: Use the cd command to navigate to the directory where you want to create your project and virtual environment.
   Create the Virtual Environment: Run the following command:
@@ -32,13 +32,10 @@ After activation, you'll notice that your terminal prompt changes to show the na
   > pip install spacytextblob
 </details>
 
-<details>
-  <summary>
-    Credits
-  </summary>
-  [Kaggle](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products)
-</details>
 
+![screenshot of the project]<img width="1437" alt="Screenshot 2024-03-13 at 15 13 32" src="https://github.com/Suhua-Tang/finalCapstone/assets/72305269/4e140a93-d8f9-4d76-b8c6-a5a81baf1211">
+
+Credits: [Kaggle](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products)
 
 
 
